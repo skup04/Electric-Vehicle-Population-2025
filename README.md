@@ -83,7 +83,7 @@ print("Accuracy:", round(accuracy_score(y_test, pred)*100, 2), "%")
 ```
 .
 ├─ electrocars.ipynb        # основной ноутбук с EDA и baseline-моделями
-├─ Electrocars_data_set.zip   # датасет
+├─ Electric_Vehicle_Population_Data.zip   # датасет
 └─ README.md                # этот файл
 ```
 
